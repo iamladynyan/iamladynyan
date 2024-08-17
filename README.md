@@ -2,7 +2,7 @@
 
 ### 🖥️ Code by Day, 🌙 Adventures by Night
 
-Hi there! I'm Lady Nyan, a curious girl with a love for cat and a passion for coding — especially when it comes to IoT, networking, and embedded systems.
+Hi there! I'm Lady Nyan, a curious girl with a love for cats and a passion for coding — especially when it comes to IoT, networking, and embedded systems.
 Currently, I’m on a mission to build my own MQTT broker from scratch — one line of code at a time. 🐱💻
 
 ![Lady Nyan in Warsaw](assets/ladynyan-warsaw.png)
