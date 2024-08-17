@@ -16,14 +16,14 @@ Currently, I’m on a mission to build my own MQTT broker from scratch — one l
 
 ### ⚡ Current Projects
 
-- **MQTT Broker Series:** [Building an MQTT Broker from Scratch](#)  
+- **MQTT Broker Series:** [Building an MQTT Broker from Scratch](#) (in work, not yet published)
   *Follow along as I create a full MQTT broker in code, starting with a basic TCP Echo Server!*
 
 - **IoT Adventures:** From sensors to smart devices, I’m always experimenting with new projects and sharing the results.
 
 ### 🧰 Tech Stack
 
-- **Languages:** Python, C, C++
+- **Languages:** C, C++, Python
 - **Tools:** MQTT, Docker, Linux
 - **Interests:** IoT, Networking, Protocol Design
 
