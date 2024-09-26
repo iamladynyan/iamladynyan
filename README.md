@@ -23,7 +23,7 @@ Currently, I’m on a mission to build my own MQTT broker from scratch — one l
 
 ### 🧰 Tech Stack
 
-- **Languages:** C, C++, Python
+- **Languages:** C, C++, Rust and Python
 - **Tools:** MQTT, Docker, Linux
 - **Interests:** IoT, Networking, Protocol Design
 
@@ -36,14 +36,6 @@ Currently, I’m on a mission to build my own MQTT broker from scratch — one l
 ### 💬 Want to Chat?
 
 I’m always up for talking about code, tech, and, of course, catnip. Feel free to reach out or contribute to any of my projects!
-
-### 💸 Support My Work
-
-If you enjoy my projects and would like to support me, you can send Bitcoin to:
-
-`bc1qmqddqk04tj4khnmv5753fedts8s7uvaqenxslm`
-
-Every bit helps to keep me coding (and well-stocked with catnip)! 😸
 
 ---
 
